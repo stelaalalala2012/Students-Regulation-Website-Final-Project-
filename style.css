@@ -1,0 +1,49 @@
+body {
+    background-color: cornsilk;
+    margin: 0px;
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer {
+    background-color:rgb(76, 72, 66);
+    color: azure;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h1{ 
+    text-align: center;
+    color: black;
+}
+h3{ 
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color:rgb(76, 72, 66);
+    color: azure;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{ 
+    color: azure;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color:rgb(44, 43, 42);
+}
+
+.navbar li {
+    float: left;
+}
